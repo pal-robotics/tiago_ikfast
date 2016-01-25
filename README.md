@@ -1,6 +1,8 @@
-# tiago_ikfast
+# tiago_ikfast contains arm.rounded.dae
 
-A version of the arm URDF simplified for ikfast usage.
+arm.rounded.dae
+
+A version of the arm URDF simplified for [IKfast usage](https://github.com/pal-robotics/tiago_ikfast_arm_plugin).
 
 To get to this version I did:
 
