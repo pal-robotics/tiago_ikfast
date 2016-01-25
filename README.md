@@ -46,7 +46,7 @@ We can check if the model makes any sense with `meshlab`
     sudo apt-get install meshlab
     meshlab arm.dae
 
-![arm.dae image](http://github.com/pal-robotics/tiago_ikfast/raw/arm.dae.png)
+![arm.dae image](https://raw.githubusercontent.com/pal-robotics/tiago_ikfast/master/arm.dae.png)
 Beautiful. Haha.
 
 ## Last tunning
